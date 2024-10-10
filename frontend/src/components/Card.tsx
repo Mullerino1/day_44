@@ -21,6 +21,7 @@ export default function Card(props: CardProps){
             {/* <h2> { Title } </h2> */}
             <p> { description } </p>
             <button onClick={changeUserName}>Log out</button> 
+            
 
         </article>
     )
